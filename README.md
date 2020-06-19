@@ -1,3 +1,3 @@
 # Web Design Homework - Web Visualization Dashboard
 
-URL: https://ijm5053.github.io/Web_Visualization/
+URL: https://ijm5053.github.io/Web_Visualization/landingpage.html
